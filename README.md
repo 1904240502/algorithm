@@ -1,2 +1,7 @@
-# algorithm
-## i是否hi是 
+# 算法学习
+##  跟随左程云
+    哔哩哔哩视频地址：
+    > https://www.bilibili.com/video/BV13g41157hK/?p=3&spm_id_from=pageDriver&vd_source=6ef06f7d27a2f048b7cb5660c236c657
+
+##  自刷
+
